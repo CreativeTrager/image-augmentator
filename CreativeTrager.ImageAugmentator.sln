@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeTrager.ImageAugmentator", "CreativeTrager.ImageAugmentator\CreativeTrager.ImageAugmentator.csproj", "{8E31ECF4-2EE1-4B47-A2A7-F9B247E56E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreativeTrager.ImageAugmentator.Demo", "CreativeTrager.ImageAugmentator.Demo\CreativeTrager.ImageAugmentator.Demo.csproj", "{9AA7E420-4A09-485A-A1E1-9FCF495B938A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E31ECF4-2EE1-4B47-A2A7-F9B247E56E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E31ECF4-2EE1-4B47-A2A7-F9B247E56E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E31ECF4-2EE1-4B47-A2A7-F9B247E56E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E31ECF4-2EE1-4B47-A2A7-F9B247E56E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA7E420-4A09-485A-A1E1-9FCF495B938A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA7E420-4A09-485A-A1E1-9FCF495B938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA7E420-4A09-485A-A1E1-9FCF495B938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA7E420-4A09-485A-A1E1-9FCF495B938A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
